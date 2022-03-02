@@ -1,3 +1,4 @@
+
 for row in range(1, 11):
     if row < 10:
         print(row, " =", end="")
@@ -21,3 +22,6 @@ for row in range(1, 11):
         else:
             print(empty, num, end='')
     print()
+    
+    
+    
