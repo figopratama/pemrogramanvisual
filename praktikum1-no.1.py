@@ -17,3 +17,6 @@ while not end_program:
             text[i] = letters[enkripsi_text]
     print('\n'.join(map(str, text)))
     end_program = True
+
+    
+    
